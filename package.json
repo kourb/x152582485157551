@@ -27,5 +27,6 @@
 	},
 	"bugs": {
 		"url": "https://github.com/kourb/vebt/issues"
-	}
+	},
+	"license": "GPL-2.0"
 }
