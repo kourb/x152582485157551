@@ -1,34 +1,36 @@
-"name": "vebt-js",
-"version": "1511577041",
+{
+	"name": "vebt",
+	"version": "0.1.0",
 
-"homepage": "https://github.com/kourb/vebt-js#readme",
-	"keywords": [
-	"vebt",
-	"veb"
-],
+	"homepage": "https://github.com/kourb/vebt#readme",
+		"keywords": [
+		"vebt",
+		"veb"
+	],
 
-"author": {
-	"name": "Vlad Kourbatski",
-	"email": "i1954@xe.am",
-	"url": "http://xe.am/i1954"
-},
+	"author": {
+		"name": "Vlad Kourbatski",
+		"email": "i1954@xe.am",
+		"url": "http://xe.am/i1954"
+	},
 
-"maintainers": [{
-	"name": "kourb",
-	"email": "i1954@xe.am"
-}],
+	"maintainers": [{
+		"name": "kourb",
+		"email": "i1954@xe.am"
+	}],
 
-"main": "lib/vebt.js",
+	"main": "lib/vebt.js",
 
-"engines": {
-	"node": ">=1.0.0"
-},
+	"engines": {
+		"node": ">=1.0.0"
+	},
 
-"repository": {
-	"type": "git",
-	"url": "git://github.com/kourb/vebt-js.git"
-},
-"bugs": {
-	"url": "https://github.com/kourb/vebt-js/issues"
-},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kourb/vebt.git"
+	},
+	"bugs": {
+		"url": "https://github.com/kourb/vebt/issues"
+	}
+}
 
